@@ -3,6 +3,7 @@
 import smbus
 import time
 import datetime
+import numpy as np
 
 bus = smbus.SMBus(1)
 
