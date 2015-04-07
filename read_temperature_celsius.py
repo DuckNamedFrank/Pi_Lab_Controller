@@ -19,5 +19,4 @@ def get_celsius_val():
 while 1 == 1:
 	temperature = get_celsius_val()
 	print temperature
-	#print time.time() #Gives weird values that are not updated every second#
 	time.sleep(1)
